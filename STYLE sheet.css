@@ -1,0 +1,24 @@
+body,h1{
+    margin:0;
+}
+.container{
+       
+    width:50%;
+    
+    margin:0 auto ;
+}
+.box-1{
+    background-color:#ff00ff;
+  padding:50px 90px 10px;
+    
+}
+.box-1 h1{
+    text-align:center;
+    text-decoration:underline;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:white;
+
+}
+.box-1 p{
+    color:#ff0000;
+}
